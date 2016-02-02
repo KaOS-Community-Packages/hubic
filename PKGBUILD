@@ -1,5 +1,6 @@
 pkgname=hubic
 pkgver=2.1.0
+_pkgbuildver=53
 pkgrel=1
 pkgdesc="Synchronization service provided by OVH."
 arch=("x86_64")
