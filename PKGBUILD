@@ -2,7 +2,7 @@ pkgname=hubic
 pkgver=2.1.0
 pkgrel=1
 pkgdesc="Synchronization service provided by OVH."
-arch=('x86-64')
+arch=("x86_64")
 url="https://hubic.com/"
 license=('custom')
 depends=('mono>=2.10')
