@@ -10,7 +10,7 @@ depends=('mono>=2.10')
 install=hubic.install
 changelog=CHANGELOG
 source=(http://mir7.ovh.net/ovh-applications/hubic/hubiC-Linux/${pkgver}/hubiC-Linux-${pkgver}.${_pkgbuildver}-linux.tar.gz)
-sha1sums=('8bc1d8dadcdfa44016440cdf6c3b0b87d403d7a5)
+sha1sums=('67c7a51325271945414f2c3c61eb371a908ea43b')
 
 package() {
   cd "$pkgname"
